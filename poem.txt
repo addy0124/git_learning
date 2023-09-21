@@ -19,5 +19,4 @@ These are the colors of the rainbow.
 And the unicorn.
 
 
-user1
-user3
+user1 is a smart girl
